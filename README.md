@@ -1,4 +1,4 @@
-https://veridian-it-agent.onrender.com/ -> deployment link
+https://veridian-it-agent.onrender.com/ 
 
 # Veridian IT Agent 🤖
 
