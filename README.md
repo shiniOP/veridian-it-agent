@@ -29,7 +29,7 @@ The agent uses only the provided Veridian Corp knowledge base and ticket/request
 
 # 🏗️ System Architecture
 
-![Veridian IT Agent Architecture](architecture.png)
+![Veridian IT Agent System Architecture](assign.png)
 
 The system follows a **Retrieve → Decide → Respond** architecture implemented using LangGraph.
 
